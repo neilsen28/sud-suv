@@ -5,4 +5,6 @@ console.log("Hello World")  // second line
 function main() {
 return null;
 }
-  
+
+main()
+// console.log(main)
